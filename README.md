@@ -132,3 +132,6 @@
     <h3 align="center"><strong>JavaScript is the Boss</strong></h3>
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000px" height="300px" alt="Fun GIF" />
  </p>
+
+
+<p align="center"><strong>🔥Thanks for Visiting</strong> </p>
