@@ -128,10 +128,10 @@
 
 ⚡ <strong>Fun fact:</strong> The original name for the Java programming language was "Oak," inspired by an oak tree outside the developer's window. It was later renamed "Java" after coffee, because developers consumed so much of it!
 
- <p align="center">
+ <!-- <p align="center">
     <h3 align="center"><strong>JavaScript is the Boss</strong></h3>
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000px" height="300px" alt="Fun GIF" />
- </p>
+ </p>-->
 
 
 <p align="center"><strong>🔥Thanks for Visiting</strong> </p>
