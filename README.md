@@ -81,7 +81,7 @@
 
 <!--bot img-->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="center" width="300" alt="Fun GIF" />
+<img src="https://github.com/TheOnlyNaimur/About-Me/blob/main/profile_bot.gif" align="center" width="300" alt="Fun GIF" />
 </p>
 
 
@@ -124,7 +124,7 @@
 
  <!-- Optional GIF -->
  <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="100" alt="Fun GIF" />
+<img src="https://github.com/TheOnlyNaimur/About-Me/blob/main/profile2.gif" width="100" alt="Fun GIF" />
  </p>
 
 ⚡ <strong>Fun fact:</strong> The original name for the Java programming language was "Oak," inspired by an oak tree outside the developer's window. It was later renamed "Java" after coffee, because developers consumed so much of it!
