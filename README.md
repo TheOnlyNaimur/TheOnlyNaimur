@@ -103,7 +103,7 @@
  <a href="https://instagram.com/naim_ur1">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
  </a>
- <a href="www.linkedin.com/in/naimurislam707">
+ <a href="https://www.linkedin.com/in/naimur-islam-90791126b/">
    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
  </a>
 <a href="https://x.com/Naimur_Islam1" target="_blank" rel="noopener noreferrer">
