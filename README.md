@@ -76,11 +76,11 @@
  <img src="https://github-profile-trophy.vercel.app/?username=TheOnlyNaimur&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p> -->
 
-<!-- Random Dev Quote -->
+<!-- Random Dev Quote 
 <h3 align="center">✍️ Dev Quote</h3>
 <p align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
+ <img src="https://the-only-naimur.vercel.app/?vercelToolbarCode=vUnZo3JnalQvBdh type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>-->
 
 
 
