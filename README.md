@@ -117,7 +117,7 @@
    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a> 
 <a href="https://naimurislam.com" target="_blank">
-   <img src="https://img.shields.io/badge/Website-naimurislam.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+   <img src="https://img.shields.io/badge/Website?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
 </a>
  
 </p>
