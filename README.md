@@ -116,6 +116,10 @@
 <a href="mailto:naimurislam707@gmail.com">
    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a> 
+<a href="https://naimurislam.com" target="_blank">
+   <img src="https://img.shields.io/badge/Website-naimurislam.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
+ 
 </p>
 
 <!-- Footer -->
